@@ -10,4 +10,4 @@ def catorgs():
         "kilon-7",
         "kilon-8",
         "kilon-9",
-    ]m,m,m,,m,xll
+    ]m,m,m,,m,xllсмчмсмсчмчсмчсмчсмчсмч
