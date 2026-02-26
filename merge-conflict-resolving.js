@@ -1,2 +1,5 @@
 console.log|'merge-conflict-resolving.js file'|
-console.log('TODO')2222222
+
+=======
+console.log('TODO')33333
+>>>>>>> Third-branch
