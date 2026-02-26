@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45.094" height="56.053" viewBox="0 0 45.094 56.053">
+  <g id="Group_1085" data-name="Group 1085" transform="translate(-15503 -1707)">
+    <rect id="Rectangle_1014" data-name="Rectangle 1014" width="45" height="56" transform="translate(15503 1707)" fill="none"/>
+    <g id="Group_1084" data-name="Group 1084" transform="translate(-185 239)">
+      <rect id="Rectangle_1011" data-name="Rectangle 1011" width="32" height="2" transform="translate(15689 1474)" fill="#20A038"/>
+      <rect id="Rectangle_1012" data-name="Rectangle 1012" width="25" height="2" rx="1" transform="translate(15689 1515)" fill="#20A038"/>
+      <rect id="Rectangle_1013" data-name="Rectangle 1013" width="2.5" height="2.5" rx="1.25" transform="translate(15704 1518)" fill="#20A038"/>
+      <path id="Path_2857" data-name="Path 2857" d="M15732.035,1522.994c-.034-.563.134-21.158,0-23.795s-7.627-8.651-7.627-8.651" fill="none" stroke="#20A038" stroke-linecap="round" stroke-width="2"/>
+      <path id="Path_2858" data-name="Path 2858" d="M15726.845,1506.608s-8.842-8.7-9.5-9.114-3.512-1.7-5.312.478a3.971,3.971,0,0,0-.7,4.771c.464,1.1,8.043,7.592,8.043,7.592s-4.511,2.368-4.382,12.659" fill="none" stroke="#20A038" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Subtraction_12" data-name="Subtraction 12" d="M213.01-183H189a4,4,0,0,1-4-4v-48a4,4,0,0,1,4-4h26a4,4,0,0,1,4,4v29h-2v-29a2,2,0,0,0-2-2H189a2,2,0,0,0-2,2v48a2,2,0,0,0,2,2h24.01v2Z" transform="translate(15503 1707)" fill="#008f3a"/>
+    </g>
+  </g>
+</svg>

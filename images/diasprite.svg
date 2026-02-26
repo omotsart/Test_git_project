@@ -1,0 +1,209 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="43.847" viewBox="0 0 200 43.847">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Intersection_4" d="M5 8.265L1.357 4.292h-.033v3.973H0V0h1.324v3.782h.033L4.83 0h1.731L2.73 3.984l4.135 4.281z" class="cls-1" data-name="Intersection 4"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Intersection_5" d="M5.535 8.265V4.508H1.327v3.757H0V0h1.327v3.385h4.208V0h1.323v8.265z" class="cls-1" data-name="Intersection 5"/>
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <path id="Intersection_6" d="M2.492 8.265V1.126H0V0h6.292v1.126h-2.48v7.139z" class="cls-1" data-name="Intersection 6"/>
+        </clipPath>
+        <clipPath id="clip-path-4">
+            <path id="Intersection_7" d="M.284 12.048v-1.121A2.274 2.274 0 0 0 1.07 11a1.616 1.616 0 0 0 1.5-1.193l.661-1.568L0 0h1.473L3.7 6.357c.027.081.087.293.171.628h.045c.031-.127.084-.336.165-.613L6.432 0H7.8L4 9.579c-.677 1.715-1.628 2.567-2.857 2.567a3.11 3.11 0 0 1-.859-.098z" class="cls-1" data-name="Intersection 7"/>
+        </clipPath>
+        <clipPath id="clip-path-5">
+            <path id="Intersection_8" d="M0 12.254V.191h1.327v1.446h.028A3.131 3.131 0 0 1 4.214 0a3.031 3.031 0 0 1 2.5 1.107A4.592 4.592 0 0 1 7.6 4.075 5.091 5.091 0 0 1 6.59 7.4a3.345 3.345 0 0 1-2.76 1.246 2.766 2.766 0 0 1-2.474-1.388h-.029v5zM2.026 1.912a2.965 2.965 0 0 0-.7 2.017v1.15A2.46 2.46 0 0 0 1.99 6.82a2.221 2.221 0 0 0 1.695.715 2.211 2.211 0 0 0 1.879-.922 4.2 4.2 0 0 0 .683-2.561 3.324 3.324 0 0 0-.639-2.161 2.109 2.109 0 0 0-1.729-.78 2.366 2.366 0 0 0-1.853.801z" class="cls-1" data-name="Intersection 8"/>
+        </clipPath>
+        <clipPath id="clip-path-6">
+            <path id="Intersection_9" d="M4.9 13.255a4.9 4.9 0 0 1-1.728-9.481A5.864 5.864 0 0 1 13.3 2.29a5.488 5.488 0 0 1-.357 10.965zm-.488-9l-.219.545-.553.21a3.574 3.574 0 0 0 1.26 6.922h8.043a4.167 4.167 0 0 0 .273-8.326l-.6-.034-.367-.48a4.5 4.5 0 0 0-3.6-1.765 4.557 4.557 0 0 0-4.238 2.924z" class="cls-1" data-name="Intersection 9"/>
+        </clipPath>
+        <clipPath id="clip-path-7">
+            <path id="Intersection_10" d="M17.561 26.277v-5.555H1.447v5.555H0V19.42h1.677c.713-1.389 1.391-2.888 2.042-4.508s1.209-3.279 1.7-4.967a49.769 49.769 0 0 0 1.194-5.09A30.319 30.319 0 0 0 7.106 0h8.937v19.42h2.905v6.857zM8.18 3.952q-.217 1.423-.563 2.977c-.231 1.032-.5 2.1-.812 3.18s-.648 2.166-1.024 3.24S5 15.47 4.575 16.491s-.875 2-1.337 2.929h11.39V1.315H8.443a23.639 23.639 0 0 1-.263 2.637z" class="cls-1" data-name="Intersection 10"/>
+        </clipPath>
+        <clipPath id="clip-path-8">
+            <path id="Intersection_11" d="M10.231 14.8V2.427c-.08.106-.155.216-.223.322s-.133.182-.181.244L.939 14.8H0V0h1.327v12.255c.058-.106.118-.209.176-.3a1.445 1.445 0 0 1 .187-.261L10.505 0h1.073v14.8z" class="cls-1" data-name="Intersection 11"/>
+        </clipPath>
+        <clipPath id="clip-path-9">
+            <path id="Intersection_12" d="M1.226 14.333A3.965 3.965 0 0 1 0 11.347q0-3.876 5.129-4.679l4.554-.683q0-4.764-3.584-4.765a7.307 7.307 0 0 0-4.755 1.957v-1.6A7.318 7.318 0 0 1 3.577.461 8.6 8.6 0 0 1 6.228 0a4.473 4.473 0 0 1 3.536 1.42 6.037 6.037 0 0 1 1.249 4.117v9.624H9.684V12.2h-.06a5.765 5.765 0 0 1-2.058 2.422 5.3 5.3 0 0 1-3 .9 4.582 4.582 0 0 1-3.34-1.189zm4.383-6.545A7.156 7.156 0 0 0 2.34 8.862a2.93 2.93 0 0 0-.94 2.425 2.9 2.9 0 0 0 .876 2.17 3.332 3.332 0 0 0 2.436.85 4.56 4.56 0 0 0 3.553-1.579 5.917 5.917 0 0 0 1.419-4.087V7.2z" class="cls-1" data-name="Intersection 12"/>
+        </clipPath>
+        <clipPath id="clip-path-10">
+            <path id="Intersection_13" d="M13.021 18.7v-3.9H1.216v3.9H0v-5.115h1.3a19.836 19.836 0 0 0 1.72-3.021A24.435 24.435 0 0 0 4.267 7.2a27.914 27.914 0 0 0 .779-3.567A27.905 27.905 0 0 0 5.364 0h6.591v13.585h2.285V18.7zM6.183 4.367a28.1 28.1 0 0 1-.736 3.191 26.305 26.305 0 0 1-1.135 3.115 21.479 21.479 0 0 1-1.519 2.912h7.829V1.214H6.58C6.5 2.246 6.371 3.3 6.183 4.367z" class="cls-1" data-name="Intersection 13"/>
+        </clipPath>
+        <clipPath id="clip-path-11">
+            <path id="Intersection_14" d="M1.89 13.388A8.032 8.032 0 0 1 0 7.848 8.039 8.039 0 0 1 1.978 2.08 6.828 6.828 0 0 1 7.169 0a6.328 6.328 0 0 1 5 2.072 8.321 8.321 0 0 1 1.839 5.715 8.166 8.166 0 0 1-1.877 5.6 6.457 6.457 0 0 1-5.118 2.133 6.5 6.5 0 0 1-5.123-2.132zM2.945 2.979a7.137 7.137 0 0 0-1.556 4.9 6.909 6.909 0 0 0 1.518 4.667 5.2 5.2 0 0 0 4.149 1.761 5.053 5.053 0 0 0 4.117-1.735 7.284 7.284 0 0 0 1.449-4.812 7.285 7.285 0 0 0-1.441-4.853 5.038 5.038 0 0 0-4.066-1.688 5.266 5.266 0 0 0-4.17 1.76z" class="cls-1" data-name="Intersection 14"/>
+        </clipPath>
+        <clipPath id="clip-path-12">
+            <path id="Intersection_15" d="M8.341 14.8L1.385 7.543h-.057V14.8H0V0h1.328v7.069h.057L8.251 0h1.721L2.8 7.228l7.4 7.572z" class="cls-1" data-name="Intersection 15"/>
+        </clipPath>
+        <clipPath id="clip-path-13">
+            <path id="Intersection_4-2" d="M5 8.265L1.357 4.292h-.033v3.973H0V0h1.324v3.782h.033L4.83 0h1.731L2.73 3.984l4.135 4.281z" class="cls-2" data-name="Intersection 4"/>
+        </clipPath>
+        <clipPath id="clip-path-14">
+            <path id="Intersection_5-2" d="M5.535 8.265V4.508H1.327v3.757H0V0h1.327v3.385h4.208V0h1.323v8.265z" class="cls-2" data-name="Intersection 5"/>
+        </clipPath>
+        <clipPath id="clip-path-15">
+            <path id="Intersection_6-2" d="M2.492 8.265V1.126H0V0h6.292v1.126h-2.48v7.139z" class="cls-2" data-name="Intersection 6"/>
+        </clipPath>
+        <clipPath id="clip-path-16">
+            <path id="Intersection_7-2" d="M.284 12.048v-1.121A2.274 2.274 0 0 0 1.07 11a1.616 1.616 0 0 0 1.5-1.193l.661-1.568L0 0h1.473L3.7 6.357c.027.081.087.293.171.628h.045c.031-.127.084-.336.165-.613L6.432 0H7.8L4 9.579c-.677 1.715-1.628 2.567-2.857 2.567a3.11 3.11 0 0 1-.859-.098z" class="cls-2" data-name="Intersection 7"/>
+        </clipPath>
+        <clipPath id="clip-path-17">
+            <path id="Intersection_8-2" d="M0 12.254V.191h1.327v1.446h.028A3.131 3.131 0 0 1 4.214 0a3.031 3.031 0 0 1 2.5 1.107A4.592 4.592 0 0 1 7.6 4.075 5.091 5.091 0 0 1 6.59 7.4a3.345 3.345 0 0 1-2.76 1.246 2.766 2.766 0 0 1-2.474-1.388h-.029v5zM2.026 1.912a2.965 2.965 0 0 0-.7 2.017v1.15A2.46 2.46 0 0 0 1.99 6.82a2.221 2.221 0 0 0 1.695.715 2.211 2.211 0 0 0 1.879-.922 4.2 4.2 0 0 0 .683-2.561 3.324 3.324 0 0 0-.639-2.161 2.109 2.109 0 0 0-1.729-.78 2.366 2.366 0 0 0-1.853.801z" class="cls-2" data-name="Intersection 8"/>
+        </clipPath>
+        <clipPath id="clip-path-18">
+            <path id="Intersection_9-2" d="M4.9 13.255a4.9 4.9 0 0 1-1.728-9.481A5.864 5.864 0 0 1 13.3 2.29a5.488 5.488 0 0 1-.357 10.965zm-.488-9l-.219.545-.553.21a3.574 3.574 0 0 0 1.26 6.922h8.043a4.167 4.167 0 0 0 .273-8.326l-.6-.034-.367-.48a4.5 4.5 0 0 0-3.6-1.765 4.557 4.557 0 0 0-4.238 2.924z" class="cls-2" data-name="Intersection 9"/>
+        </clipPath>
+        <clipPath id="clip-path-19">
+            <path id="Intersection_10-2" d="M17.561 26.277v-5.555H1.447v5.555H0V19.42h1.677c.713-1.389 1.391-2.888 2.042-4.508s1.209-3.279 1.7-4.967a49.769 49.769 0 0 0 1.194-5.09A30.319 30.319 0 0 0 7.106 0h8.937v19.42h2.905v6.857zM8.18 3.952q-.217 1.423-.563 2.977c-.231 1.032-.5 2.1-.812 3.18s-.648 2.166-1.024 3.24S5 15.47 4.575 16.491s-.875 2-1.337 2.929h11.39V1.315H8.443a23.639 23.639 0 0 1-.263 2.637z" class="cls-2" data-name="Intersection 10"/>
+        </clipPath>
+        <clipPath id="clip-path-20">
+            <path id="Intersection_11-2" d="M10.231 14.8V2.427c-.08.106-.155.216-.223.322s-.133.182-.181.244L.939 14.8H0V0h1.327v12.255c.058-.106.118-.209.176-.3a1.445 1.445 0 0 1 .187-.261L10.505 0h1.073v14.8z" class="cls-2" data-name="Intersection 11"/>
+        </clipPath>
+        <clipPath id="clip-path-21">
+            <path id="Intersection_12-2" d="M1.226 14.333A3.965 3.965 0 0 1 0 11.347q0-3.876 5.129-4.679l4.554-.683q0-4.764-3.584-4.765a7.307 7.307 0 0 0-4.755 1.957v-1.6A7.318 7.318 0 0 1 3.577.461 8.6 8.6 0 0 1 6.228 0a4.473 4.473 0 0 1 3.536 1.42 6.037 6.037 0 0 1 1.249 4.117v9.624H9.684V12.2h-.06a5.765 5.765 0 0 1-2.058 2.422 5.3 5.3 0 0 1-3 .9 4.582 4.582 0 0 1-3.34-1.189zm4.383-6.545A7.156 7.156 0 0 0 2.34 8.862a2.93 2.93 0 0 0-.94 2.425 2.9 2.9 0 0 0 .876 2.17 3.332 3.332 0 0 0 2.436.85 4.56 4.56 0 0 0 3.553-1.579 5.917 5.917 0 0 0 1.419-4.087V7.2z" class="cls-2" data-name="Intersection 12"/>
+        </clipPath>
+        <clipPath id="clip-path-22">
+            <path id="Intersection_13-2" d="M13.021 18.7v-3.9H1.216v3.9H0v-5.115h1.3a19.836 19.836 0 0 0 1.72-3.021A24.435 24.435 0 0 0 4.267 7.2a27.914 27.914 0 0 0 .779-3.567A27.905 27.905 0 0 0 5.364 0h6.591v13.585h2.285V18.7zM6.183 4.367a28.1 28.1 0 0 1-.736 3.191 26.305 26.305 0 0 1-1.135 3.115 21.479 21.479 0 0 1-1.519 2.912h7.829V1.214H6.58C6.5 2.246 6.371 3.3 6.183 4.367z" class="cls-2" data-name="Intersection 13"/>
+        </clipPath>
+        <clipPath id="clip-path-23">
+            <path id="Intersection_14-2" d="M1.89 13.388A8.032 8.032 0 0 1 0 7.848 8.039 8.039 0 0 1 1.978 2.08 6.828 6.828 0 0 1 7.169 0a6.328 6.328 0 0 1 5 2.072 8.321 8.321 0 0 1 1.839 5.715 8.166 8.166 0 0 1-1.877 5.6 6.457 6.457 0 0 1-5.118 2.133 6.5 6.5 0 0 1-5.123-2.132zM2.945 2.979a7.137 7.137 0 0 0-1.556 4.9 6.909 6.909 0 0 0 1.518 4.667 5.2 5.2 0 0 0 4.149 1.761 5.053 5.053 0 0 0 4.117-1.735 7.284 7.284 0 0 0 1.449-4.812 7.285 7.285 0 0 0-1.441-4.853 5.038 5.038 0 0 0-4.066-1.688 5.266 5.266 0 0 0-4.17 1.76z" class="cls-2" data-name="Intersection 14"/>
+        </clipPath>
+        <clipPath id="clip-path-24">
+            <path id="Intersection_15-2" d="M8.341 14.8L1.385 7.543h-.057V14.8H0V0h1.328v7.069h.057L8.251 0h1.721L2.8 7.228l7.4 7.572z" class="cls-2" data-name="Intersection 15"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:#666}.cls-2{fill:#fff}
+        </style>
+    </defs>
+    <g id="Group_824" data-name="Group 824" transform="translate(-1321 -764.26)">
+        <g id="Group_823" data-name="Group 823" transform="translate(100 432.6)">
+            <g id="Group_820" data-name="Group 820" opacity="0.6" transform="translate(1221 335.612)">
+                <g id="Group_793" data-name="Group 793" transform="translate(0 .19)">
+                    <g id="Group_792" clip-path="url(#clip-path)" data-name="Group 792">
+                        <path id="Rectangle_754" d="M0 0H16.101V17.501H0z" class="cls-1" data-name="Rectangle 754" transform="translate(-4.618 -4.618)"/>
+                    </g>
+                </g>
+                <g id="Group_795" data-name="Group 795" transform="translate(27.156 .19)">
+                    <g id="Group_794" clip-path="url(#clip-path-2)" data-name="Group 794">
+                        <path id="Rectangle_756" d="M0 0H16.094V17.501H0z" class="cls-1" data-name="Rectangle 756" transform="translate(-4.618 -4.618)"/>
+                    </g>
+                </g>
+                <g id="Group_797" data-name="Group 797" transform="translate(35.59 .191)">
+                    <g id="Group_796" clip-path="url(#clip-path-3)" data-name="Group 796">
+                        <path id="Rectangle_758" d="M0 0H15.527V17.501H0z" class="cls-1" data-name="Rectangle 758" transform="translate(-4.617 -4.618)"/>
+                    </g>
+                </g>
+                <g id="Group_799" data-name="Group 799" transform="translate(42.918 .191)">
+                    <g id="Group_798" clip-path="url(#clip-path-4)" data-name="Group 798">
+                        <path id="Rectangle_760" d="M0 0H17.039V21.382H0z" class="cls-1" data-name="Rectangle 760" transform="translate(-4.618 -4.619)"/>
+                    </g>
+                </g>
+                <g id="Group_801" data-name="Group 801" transform="translate(52.141)">
+                    <g id="Group_800" clip-path="url(#clip-path-5)" data-name="Group 800">
+                        <path id="Rectangle_762" d="M0 0H16.834V21.49H0z" class="cls-1" data-name="Rectangle 762" transform="translate(-4.618 -4.619)"/>
+                    </g>
+                </g>
+            </g>
+            <g id="Group_803" data-name="Group 803" transform="translate(1228.146 331.661)">
+                <g id="Group_802" clip-path="url(#clip-path-6)" data-name="Group 802">
+                    <path id="Rectangle_764" d="M0 0H27.665V22.49H0z" class="cls-1" data-name="Rectangle 764" transform="translate(-4.618 -4.617)"/>
+                </g>
+            </g>
+            <g id="Group_805" data-name="Group 805" transform="translate(1225.693 349.231)">
+                <g id="Group_804" clip-path="url(#clip-path-7)" data-name="Group 804">
+                    <path id="Rectangle_766" d="M0 0H28.183V35.513H0z" class="cls-1" data-name="Rectangle 766" transform="translate(-4.617 -4.618)"/>
+                </g>
+            </g>
+            <g id="Group_807" data-name="Group 807" transform="translate(1248.142 355.155)">
+                <g id="Group_806" clip-path="url(#clip-path-8)" data-name="Group 806">
+                    <path id="Rectangle_768" d="M0 0H20.814V24.034H0z" class="cls-1" data-name="Rectangle 768" transform="translate(-4.618 -4.618)"/>
+                </g>
+            </g>
+            <g id="Group_809" data-name="Group 809" transform="translate(1263.189 354.791)">
+                <g id="Group_808" clip-path="url(#clip-path-9)" data-name="Group 808">
+                    <path id="Rectangle_770" d="M0 0H20.249V24.757H0z" class="cls-1" data-name="Rectangle 770" transform="translate(-4.617 -4.618)"/>
+                </g>
+            </g>
+            <g id="Group_811" data-name="Group 811" transform="translate(1277.349 355.153)">
+                <g id="Group_810" clip-path="url(#clip-path-10)" data-name="Group 810">
+                    <path id="Rectangle_772" d="M0 0H23.476V27.939H0z" class="cls-1" data-name="Rectangle 772" transform="translate(-4.618 -4.617)"/>
+                </g>
+            </g>
+            <g id="Group_813" data-name="Group 813" transform="translate(1293.538 354.792)">
+                <g id="Group_812" clip-path="url(#clip-path-11)" data-name="Group 812">
+                    <path id="Rectangle_774" d="M0 0H23.244V24.756H0z" class="cls-1" data-name="Rectangle 774" transform="translate(-4.618 -4.618)"/>
+                </g>
+            </g>
+            <g id="Group_815" data-name="Group 815" transform="translate(1310.801 355.154)">
+                <g id="Group_814" clip-path="url(#clip-path-12)" data-name="Group 814">
+                    <path id="Rectangle_776" d="M0 0H19.435V24.034H0z" class="cls-1" data-name="Rectangle 776" transform="translate(-4.618 -4.618)"/>
+                </g>
+            </g>
+        </g>
+        <g id="Group_822" data-name="Group 822" transform="translate(200 432.6)">
+            <g id="Group_820-2" data-name="Group 820" opacity="0.594" transform="translate(1221 335.612)">
+                <g id="Group_793-2" data-name="Group 793" transform="translate(0 .19)">
+                    <g id="Group_792-2" clip-path="url(#clip-path-13)" data-name="Group 792">
+                        <path id="Rectangle_754-2" d="M0 0H16.101V17.501H0z" class="cls-2" data-name="Rectangle 754" transform="translate(-4.618 -4.618)"/>
+                    </g>
+                </g>
+                <g id="Group_795-2" data-name="Group 795" transform="translate(27.156 .19)">
+                    <g id="Group_794-2" clip-path="url(#clip-path-14)" data-name="Group 794">
+                        <path id="Rectangle_756-2" d="M0 0H16.094V17.501H0z" class="cls-2" data-name="Rectangle 756" transform="translate(-4.618 -4.618)"/>
+                    </g>
+                </g>
+                <g id="Group_797-2" data-name="Group 797" transform="translate(35.59 .191)">
+                    <g id="Group_796-2" clip-path="url(#clip-path-15)" data-name="Group 796">
+                        <path id="Rectangle_758-2" d="M0 0H15.527V17.501H0z" class="cls-2" data-name="Rectangle 758" transform="translate(-4.617 -4.618)"/>
+                    </g>
+                </g>
+                <g id="Group_799-2" data-name="Group 799" transform="translate(42.918 .191)">
+                    <g id="Group_798-2" clip-path="url(#clip-path-16)" data-name="Group 798">
+                        <path id="Rectangle_760-2" d="M0 0H17.039V21.382H0z" class="cls-2" data-name="Rectangle 760" transform="translate(-4.618 -4.619)"/>
+                    </g>
+                </g>
+                <g id="Group_801-2" data-name="Group 801" transform="translate(52.141)">
+                    <g id="Group_800-2" clip-path="url(#clip-path-17)" data-name="Group 800">
+                        <path id="Rectangle_762-2" d="M0 0H16.834V21.49H0z" class="cls-2" data-name="Rectangle 762" transform="translate(-4.618 -4.619)"/>
+                    </g>
+                </g>
+            </g>
+            <g id="Group_803-2" data-name="Group 803" transform="translate(1228.146 331.661)">
+                <g id="Group_802-2" clip-path="url(#clip-path-18)" data-name="Group 802">
+                    <path id="Rectangle_764-2" d="M0 0H27.665V22.49H0z" class="cls-2" data-name="Rectangle 764" transform="translate(-4.618 -4.617)"/>
+                </g>
+            </g>
+            <g id="Group_805-2" data-name="Group 805" transform="translate(1225.693 349.231)">
+                <g id="Group_804-2" clip-path="url(#clip-path-19)" data-name="Group 804">
+                    <path id="Rectangle_766-2" d="M0 0H28.183V35.513H0z" class="cls-2" data-name="Rectangle 766" transform="translate(-4.617 -4.618)"/>
+                </g>
+            </g>
+            <g id="Group_807-2" data-name="Group 807" transform="translate(1248.142 355.155)">
+                <g id="Group_806-2" clip-path="url(#clip-path-20)" data-name="Group 806">
+                    <path id="Rectangle_768-2" d="M0 0H20.814V24.034H0z" class="cls-2" data-name="Rectangle 768" transform="translate(-4.618 -4.618)"/>
+                </g>
+            </g>
+            <g id="Group_809-2" data-name="Group 809" transform="translate(1263.189 354.791)">
+                <g id="Group_808-2" clip-path="url(#clip-path-21)" data-name="Group 808">
+                    <path id="Rectangle_770-2" d="M0 0H20.249V24.757H0z" class="cls-2" data-name="Rectangle 770" transform="translate(-4.617 -4.618)"/>
+                </g>
+            </g>
+            <g id="Group_811-2" data-name="Group 811" transform="translate(1277.349 355.153)">
+                <g id="Group_810-2" clip-path="url(#clip-path-22)" data-name="Group 810">
+                    <path id="Rectangle_772-2" d="M0 0H23.476V27.939H0z" class="cls-2" data-name="Rectangle 772" transform="translate(-4.618 -4.617)"/>
+                </g>
+            </g>
+            <g id="Group_813-2" data-name="Group 813" transform="translate(1293.538 354.792)">
+                <g id="Group_812-2" clip-path="url(#clip-path-23)" data-name="Group 812">
+                    <path id="Rectangle_774-2" d="M0 0H23.244V24.756H0z" class="cls-2" data-name="Rectangle 774" transform="translate(-4.618 -4.618)"/>
+                </g>
+            </g>
+            <g id="Group_815-2" data-name="Group 815" transform="translate(1310.801 355.154)">
+                <g id="Group_814-2" clip-path="url(#clip-path-24)" data-name="Group 814">
+                    <path id="Rectangle_776-2" d="M0 0H19.435V24.034H0z" class="cls-2" data-name="Rectangle 776" transform="translate(-4.618 -4.618)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
