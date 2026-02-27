@@ -1,3 +1,0 @@
-example1
-exanple2
-example3
