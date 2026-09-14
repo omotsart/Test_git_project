@@ -47,4 +47,4 @@ python main.py --source all --analyze
 Создатель: Stavropol26
 Telegram: [Твоя ссылка]
 GitHub: [https://github.com/Stavropol26](https://github.com/Stavropol26)
-Test1
+Test
